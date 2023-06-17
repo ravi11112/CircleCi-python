@@ -1,6 +1,6 @@
 import unittest
 from main import to_upper
-ravi
+
 
 class MyTestCase(unittest.TestCase):
     def test_to_upper(self):
